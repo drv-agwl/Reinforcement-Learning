@@ -1,4 +1,4 @@
-Prerequisites:
+# Prerequisites:
 
 Need to install vizdoom
 For windows:
@@ -9,5 +9,9 @@ For windows:
   - copy the files from basic.cfg and basic.wag from vizdoom/scenarios to your working directory
   
   
-  
+
+# Demo of agent playing the game
+
+The model was trained for 2000 games
+
 ![Demo of agent playing the game](doom.gif)
