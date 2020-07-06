@@ -12,6 +12,6 @@ For windows:
 
 # Demo of agent playing the game
 
-The model was trained for 2000 games
+The model was trained on 2000 games
 
 ![Demo of agent playing the game](doom.gif)
