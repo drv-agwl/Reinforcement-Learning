@@ -1,5 +1,7 @@
 # Reinforcement-Learning
 
+Different Reinforcement Learning algoritms for different games
+
 ## Deep Q Learning for Doom
 
 Go to: [Project Folder](https://github.com/drv-agwl/Reinforcement-Learning/tree/master/Deep%20Q%20Learning/Doom)
