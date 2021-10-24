@@ -2,7 +2,7 @@
 
 ## Deep Q Learning for Doom
 
-Go to: [a link](https://github.com/drv-agwl/Reinforcement-Learning/tree/master/Deep%20Q%20Learning/Doom)
+Go to: [Project Folder](https://github.com/drv-agwl/Reinforcement-Learning/tree/master/Deep%20Q%20Learning/Doom)
 
 ### Prerequisites:
 
@@ -20,4 +20,4 @@ For windows:
 
 The model was trained on 2000 games
 
-![Demo of agent playing the game](https://github.com/drv-agwl/Reinforcement-Learning/tree/master/Deep%20Q%20Learning/Doom/doom.gif)
+![Demo of agent playing the game](./Deep%20Q%20Learning/Doom/doom.gif)
